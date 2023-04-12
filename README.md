@@ -24,8 +24,8 @@ Simple wave generator ( function visualisation )
 
 Example 1.   
 
-![Animation](https://github.com/SlawoStr/WaveGenerator/blob/master/Img/WaveGenerator.gif)
+![Animation](https://github.com/SlawekStr/WaveGenerator/blob/master/Img/WaveGenerator.gif)
 
 Example 2. Low Precision   
 
-![Animation](https://github.com/SlawoStr/WaveGenerator/blob/master/Img/WaveGeneratorSpecialMode.gif)
+![Animation](https://github.com/SlawekStr/WaveGenerator/blob/master/Img/WaveGeneratorSpecialMode.gif)
